@@ -1,0 +1,30 @@
+.fetch-news {
+  width: 80vw;
+  background: #f3f3f3;
+  text-align: center;
+  margin: 2rem auto;
+}
+
+.form {
+  display: grid;
+  width: 100%;
+}
+
+.form input {
+  width: 100%;
+  font-size: 2.1rem;
+  border: none;
+  background: lightgrey;
+  text-align: center;
+  letter-spacing: 5px;
+  border-bottom: 4px solid grey;
+  padding: 0.3rem;
+  outline: lightgrey;
+}
+
+.btn {
+  width: 12.5%;
+  font-size: 1.4rem;
+  margin: 0.5rem auto;
+  border: 1px dotted grey;
+}

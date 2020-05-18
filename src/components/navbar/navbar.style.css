@@ -1,0 +1,28 @@
+nav {
+  display: grid;
+  justify-content: center;
+  justify-items: center;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.span-title {
+  width: 22%;
+  transform: skew(-35deg);
+}
+
+.news {
+  letter-spacing: 10px;
+  transform: skew(-40deg);
+  margin: 0 auto;
+  color: grey;
+}
+
+.nav-image {
+  width: 100vw;
+}
+
+.image {
+  width: 15%;
+  margin-bottom: 1rem;
+}
